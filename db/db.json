@@ -1,14 +1,12 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
-    },
-    {
-        "title": "Post",
-        "text": "Carlos"
+        "title": "new note",
+        "text": "this is a new note",
+        "id": "d6b36d80-c035-416b-9f05-014543f96c53"
     },
     {
         "title": "Carlos",
-        "text": "Carlos"
+        "text": "Barrena",
+        "id": "7f738d0b-ffa9-4723-b64a-e64a33e700ef"
     }
 ]

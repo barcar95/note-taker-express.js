@@ -28,10 +28,7 @@ router.post('/notes', (req, res) => {
         id: uuidv4(),
       };
   
-      fs.writeFile('./db/test.json', JSON.stringify(newNote), (err) => {
-        console.log(err);
-      } );
-  
+      readAndAppend(newNote, './db/db.json');
       const response = {
         status: 'success',
         body: newNote,
