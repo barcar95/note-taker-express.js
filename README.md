@@ -17,6 +17,8 @@ The Note Taker app allows the user to write and save notes in order to help with
 
 [Note Taker Webpage](https://barrena-note-taker-3682c18855c3.herokuapp.com/notes)
 
+![Webpage screenshot](assets/images/Note-taker-screenshot.jpg)
+
 
 
 ## License
